@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tony-c-dev.github.io/csb-uu2ml/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://tony-c-dev.github.io/csb-uu2ml/static/js/main.cd84d416.chunk.js",
+    "main.js.map": "https://tony-c-dev.github.io/csb-uu2ml/static/js/main.cd84d416.chunk.js.map",
+    "runtime-main.js": "https://tony-c-dev.github.io/csb-uu2ml/static/js/runtime-main.d120a912.js",
+    "runtime-main.js.map": "https://tony-c-dev.github.io/csb-uu2ml/static/js/runtime-main.d120a912.js.map",
+    "static/js/2.6018c1b0.chunk.js": "https://tony-c-dev.github.io/csb-uu2ml/static/js/2.6018c1b0.chunk.js",
+    "static/js/2.6018c1b0.chunk.js.map": "https://tony-c-dev.github.io/csb-uu2ml/static/js/2.6018c1b0.chunk.js.map",
+    "index.html": "https://tony-c-dev.github.io/csb-uu2ml/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://tony-c-dev.github.io/csb-uu2ml/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6018c1b0.chunk.js.LICENSE.txt": "https://tony-c-dev.github.io/csb-uu2ml/static/js/2.6018c1b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d120a912.js",
+    "static/js/2.6018c1b0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.cd84d416.chunk.js"
+  ]
+}
